@@ -2,6 +2,8 @@
 
 Sudoku game
 
+MOURABIT NASSIM
+
 ## Getting Started
 
 1. Make sure Flutter is installed
